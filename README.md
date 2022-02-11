@@ -9,7 +9,7 @@ Import numpy library using import statement.
 ### Step 2:
 Create two lists and use input() method to find the number of elements to add in each list.
 ### Step 3:
-Add elements to the list using input() and append() method
+Initiate a for loop and add elements to the list using input() and append() method.
 ### Step 4:
 Create a 3rd list and append the product of each element in the first two lists as its elements.
 ### Step 5:
